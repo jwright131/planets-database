@@ -9,3 +9,6 @@ One full rotation (a day) takes 243 Earth days, while one orbit around the Sun (
 
 Venus rotates backward compared to most planets.
 The Sun would rise in the west and set in the east if you were standing on Venus.
+
+Venus has crushing air pressure.
+The atmospheric pressure on Venus is about 90 times stronger than Earth’s, roughly the same pressure you’d feel nearly 1 km underwater on Earth.
