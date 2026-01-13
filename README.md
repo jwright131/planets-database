@@ -1,4 +1,4 @@
-# planets-database
+# Planets Database
 
 ## Description
 This repository is a practice project for learning Git and GitHub workflows using GitHub Desktop and VS Code. It demonstrates how to create a repository, organize files locally, and track changes using version control.
